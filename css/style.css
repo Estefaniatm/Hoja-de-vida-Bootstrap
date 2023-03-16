@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.fondo {
+    background-image: url(/images/fondo.jpg);
+    opacity: 0.6;
+    background-position:  center;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+    text-align: center;
+}
+
+.circular--square {
+    border-radius: 600%;
+  }
+
