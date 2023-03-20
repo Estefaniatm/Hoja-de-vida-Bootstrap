@@ -1,6 +1,5 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
 .fondo {
@@ -16,4 +15,47 @@ body {
 .circular--square {
     border-radius: 600%;
   }
+
+.sociales {
+    text-align: center;
+}
+
+.facebook-btn picture{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.facebook-btn picture img {
+    width: 80%;
+}
+
+.instagram-btn picture{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.instagram-btn picture img {
+    width: 80%;
+}
+
+.gmail-btn picture{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.gmail-btn picture img {
+    width: 80%;
+}
 
